@@ -16,9 +16,12 @@ Python: Level 2 – Basic understanding
 C++: Level 1 – Foundational understanding
 
 <h2>Certifications</h2>
-GIAC Sec+ Foundations
 
-(Working on) Google Certificate
+-GIAC Sec+ Foundations
+
+-(Working on) Google Certificate
+
+-Foundations of Cybersecurity (Coursera)
 
 
 <h2>Badges</h2>
